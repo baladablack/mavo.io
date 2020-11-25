@@ -3,7 +3,7 @@
 		{
 			"name": "Did You Medicate The Dog?",
 			"amount": 10,
-			"image": "http://theworstthingsforsale.com/wp-content/uploads/2018/05/did-you-medicate-the-dog.jpg"
+			"image": "https://cdn.jsdelivr.net/gh/baladablack/mavo.io@9a051391bb71afe0828b9f8e24b28db708ba6a25/demos/eshop/images/capa-face-tom.png"
 		},
 		{
 			"name": "I Believe In Broccoli",
@@ -24,6 +24,7 @@
 			"name": "Wearable Chair",
 			"amount": 989,
 			"image": "http://theworstthingsforsale.com/wp-content/uploads/2018/05/wearable-chair.jpg"
-		}
+		},
+		{}
 	]
 }
